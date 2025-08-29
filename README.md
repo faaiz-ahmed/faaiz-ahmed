@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faaiz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faaiz ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faaizahmed-karachi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faaiz ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/faaiz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faaiz ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/faaizahmed2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faaizahmed2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/faaiz_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faaiz_ahmed" height="30" width="40" /></a>
